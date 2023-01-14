@@ -83,7 +83,6 @@ p.current-price {
 }
 
 p.old-price {
-    text-decoration: line-through;
     color: var(--n-Darkgrayishblue);
 }
 
